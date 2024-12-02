@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NewBlog for Daniel</title>
+      <link>http://example.org/posts/blog/testingnewblogpost/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/blog/testingnewblogpost/</guid>
+      <description>&lt;p&gt;Hello this is a blogpost
+I am trying to sync this with another location&lt;/p&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;http://example.org/images/Pasted%20image%2020241202203138.png&#34;&gt;!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;http://example.org/images/Pasted%20image%2020241202203226.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
